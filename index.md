@@ -26,11 +26,6 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td>46 fantasy novels, and Hugo's <i>Les misérables</i></td><td><a href="http://doi.org/10.1371/journal.pone.0126470">Waumans2015</a></td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>Classification of works</td></tr>
   <tr><td>Martin's <i>A Storm of Swords</i></td><td><a href="http://doi.org/10.4169/mathhorizons.23.4.18">Beveridge2016</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
   <tr><td>3 modern novels</td><td><a href="http://doi.org/10.1007/978-3-319-49787-7_9">Bonato2016</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Model fitting</td></tr>
-  <tr><td>3 TV series</td><td><a href="http://doi.org/10.1109/ASONAM.2016.7752379">Bost2016</a>, <a href="http://doi.org/10.1007/978-3-319-78196-9_3">Bost2016b</a>, <a href="https://tel.archives-ouvertes.fr/tel-01637270">Bost2016c</a>, <a href="http://doi.org/10.1007/s11042-019-07969-4">Bost2018a</a></td><td>N/Y</td><td>N/Y</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N/Y</td><td>Video summarization</td></tr>
-  <tr><td>Zhi Ning's <i>Journey to the West Prequel<i></td><td><a href="http://doi.org/10.1002/pra2.2016.14505301088">Chen2016k</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
-  <tr><td>Tarentino's <i>Pulp Fiction</i></td><td><a href="http://doi.org/10.3389/fpsyg.2016.01753">Cipresso2016</a></td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>Y</td><td>Y</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
-  <tr><td>Edgeworth's <i>The Absentee</i></td><td><a href="http://doi.org/10.1080/20512856.2016.1244909">Falk2016</a></td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Check literary theories</td></tr>
-  <tr><td>19th century British novels</td><td><a href="http://doi.org/10.1007/978-3-319-46224-0_7">Grayson2016, Grayson2016a</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N/Y</td><td>Descriptive analysis</td></tr>
 </table>
 
 # Contact

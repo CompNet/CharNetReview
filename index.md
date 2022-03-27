@@ -20,5 +20,6 @@ Here are the resources associated to the article:
 
 
 # Contact
-Vincent Labatut <<vincent.labatut@univ-avignon.fr>>
+Please, contact me if you detect an article missing from the above list:
+Vincent Labatut <[vincent.labatut@univ-avignon.fr](mailto:vincent.labatut@univ-avignon.fr)>
 

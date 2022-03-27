@@ -1,4 +1,4 @@
-# CharNetReview
+# Extraction and Analysis of Fictional Character Networks: A Survey
 *Up-to-date  bibliographic references and files for the Character Networks review*
 
 This repository only aims at making it easier to update our review on character networks (instead of updating the preprint twice a year). See the web page: https://compnet.github.io/CharNetReview/

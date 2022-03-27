@@ -8,9 +8,9 @@ It aims at hosting an up-to-date list of academic articles related to the extrac
 ![CitationNet](/docs/assets/images/article_citation.svg)
 
 # Resources
-Here are the resources associated to the article:
+The resources associated to the article are available through the following links:
 
-* `[table_bib.ods](/docs/assets/data/table_bib.ods)`: LibreOffice table listing the articles with their main information.
+* [`table_bib.ods`](/docs/assets/data/table_bib.ods): LibreOffice table listing the articles with their main information.
 * [`charnets.bib`](/docs/assets/data/charnets.bib): BibTeX file containing the bibliographic entries of these articles, as well as the ones they cite (the latter are not represented in the below graphs).
 * [`article_citation.graphml`](/docs/assets/data/article_citation.graphml): article citation network, i.e. graph whose vertices are the listed articles and edges represent them citing each other.
 * [`article_cociting.graphml`](/docs/assets/data/article_cociting.graphml): same, but the edges represent how much two articles cite the same bibliographic references.

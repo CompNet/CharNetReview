@@ -4,5 +4,10 @@
 @import "{{ site.theme }}";
 
 .main-content {
-  max-width: 90%;
+@include large {
+    max-width: 128rem;
+    padding: 2rem 6rem;
+    margin: 0 auto;
+    font-size: 1.1rem;
+  }
 }

@@ -23,7 +23,6 @@ List of methods designed to extract character networks from fictional works. The
 <table>
   <tr><td><b>Work of fiction</b></td><td><b>Reference</b></td><td colspan="5"><b>Relationships</b></td><td colspan="4"><b>Graph</b></td><td><b>Application</b></td></tr>
   <tr><td>3 TV series</td><td><a href="http://doi.org/10.1109/ASONAM.2016.7752379">Bost2016</a>, <a href="http://doi.org/10.1007/978-3-319-78196-9_3">Bost2016b</a>, <a href="https://tel.archives-ouvertes.fr/tel-01637270">Bost2016c</a>, <a href="http://doi.org/10.1007/s11042-019-07969-4">Bost2018a</a></td><td>N/Y</td><td>N/Y</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N/Y</td><td>Video summarization</td></tr>
-  <tr><td>Zhi Ning's <i>Journey to the West Prequel<i></td><td><a href="http://doi.org/10.1002/pra2.2016.14505301088">Chen2016k</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
 </table>
 
 # Contact

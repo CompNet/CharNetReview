@@ -24,21 +24,21 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td><b>Work of fiction</b></td><td><b>Reference</b></td><td colspan="5"><b>Relationships</b></td><td colspan="4"><b>Graph</b></td><td><b>Application</b></td></tr>
   <tr><td/><td/><td><b>Cc.</b></td><td><b>Cv.</b></td><td><b>M.</b></td><td><b>Ac.</b></td><td><b>Af.</b></td><td><b>W.</b></td><td><b>Di.</b></td><td><b>S.</b></td><td><b>Dy.</b></td><td/></tr>
   <tr><td>Mozart's <i>Cosi Fan Tutte</i></td><td><a href="http://doi.org/10.2466/pr0.1963.13.2.466">Harary1963</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>Y</td><td>Y</td><td>Descriptive analysis</td></tr>
-  <tr><td>Murdoch's <i>A Severed Head</i></td><td><a href="">Harary1966a</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
-  <tr><td>Shakespeare's <i>A Midsummer Night's Dream</i></td><td><a href="">Stanton1967</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>Y</td><td>Y</td><td>Descriptive analysis</td></tr>
-  <tr><td>Wagner's <i>Der Ring des Nibelungen</i></td><td><a href="">Mayer1973</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>Y</td><td>Y</td><td>N</td><td>Descriptive analysis</td></tr>
-  <tr><td>Shakespeare's <i>Twelfth Night</i></td><td><a href="">Harary1975</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>Y</td><td>Y</td><td>N</td><td>Descriptive analysis</td></tr>
-  <tr><td>16 fairy tales</td><td><a href="">Auster1980</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>Y</td><td>Y</td><td>Descriptive analysis</td></tr>
-  <tr><td>Sophocles' <i>Oedipus Rex</i></td><td><a href="">Harary1982</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
-  <tr><td>Priestley's <i>Dangerous Corner</i></td><td><a href="">Harary1985</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>Y</td><td>Y</td><td>N</td><td>Comparative study</td></tr>
-  <tr><td>5 classic novels</td><td><a href="">Knuth1993</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Benchmark for graph processing tools</td></tr>
-  <tr><td><i>Marvel</i> comics</td><td><a href="">Alberich2002</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Level of realism</td></tr>
-  <tr><td>10 Shakespeare's plays</td><td><a href="">Stiller2003, Stiller2005</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Level of realism</td></tr>
-  <tr><td>All of Shakespeare's plays</td><td><a href="">Mutton2004</a></td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N/Y</td><td>Visualization</td></tr>
-  <tr><td>Dictionary of Greek and Roman mythology</td><td><a href="">Choi2007</a></td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N/Y</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
-  <tr><td><i>Marvel</i> comics</td><td><a href="">Gleiser2007</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Level of realism</td></tr>
-  <tr><td>Hollywood movies, and TV series</td><td><a href="">Weng2007, Weng2007a, Weng2009</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Storyline identification/segmentation</td></tr>
-  <tr><td>9 classical plays</td><td><a href="">Voloshinov2008</a></td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Level of realism</td></tr>
+  <tr><td>Murdoch's <i>A Severed Head</i></td><td><a href="http://doi.org/10.2466/pr0.1966.19.2.473">Harary1966a</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
+  <tr><td>Shakespeare's <i>A Midsummer Night's Dream</i></td><td><a href="http://doi.org/10.2466/pr0.1967.20.2.657">Stanton1967</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>Y</td><td>Y</td><td>Descriptive analysis</td></tr>
+  <tr><td>Wagner's <i>Der Ring des Nibelungen</i></td><td><a href="https://www.persee.fr/doc/roman_0048-8593_1973_num_3_6_4957">Mayer1973</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>Y</td><td>Y</td><td>N</td><td>Descriptive analysis</td></tr>
+  <tr><td>Shakespeare's <i>Twelfth Night</i></td><td><a href="http://www.numdam.org/item/MSH_1975__51__77_0/">Harary1975</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>Y</td><td>Y</td><td>N</td><td>Descriptive analysis</td></tr>
+  <tr><td>16 fairy tales</td><td><a href="http://doi.org/10.2466/pr0.1980.47.1.183">Auster1980</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>Y</td><td>Y</td><td>Descriptive analysis</td></tr>
+  <tr><td>Sophocles' <i>Oedipus Rex</i></td><td><a href="https://dokumen.tips/documents/oedipus-loves-his-mother.html">Harary1982</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
+  <tr><td>Priestley's <i>Dangerous Corner</i></td><td><a href="http://doi.org/10.1515/semi.1985.54.3-4.387">Harary1985</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>Y</td><td>Y</td><td>N</td><td>Comparative study</td></tr>
+  <tr><td>5 classic novels</td><td><a href="http://www-cs-faculty.stanford.edu/~knuth/sgb.html">Knuth1993</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Benchmark for graph processing tools</td></tr>
+  <tr><td><i>Marvel</i> comics</td><td><a href="http://arxiv.org/abs/cond-mat/0202174">Alberich2002</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Level of realism</td></tr>
+  <tr><td>10 Shakespeare's plays</td><td><a href="http://doi.org/10.1007/s12110-003-1013-1">Stiller2003, Stiller2005</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Level of realism</td></tr>
+  <tr><td>All of Shakespeare's plays</td><td><a href="http://doi.org/10.1109/IV.2004.1320122">Mutton2004</a></td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N/Y</td><td>Visualization</td></tr>
+  <tr><td>Dictionary of Greek and Roman mythology</td><td><a href="http://doi.org/10.1016/j.physa.2007.04.035">Choi2007</a></td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N/Y</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
+  <tr><td><i>Marvel</i> comics</td><td><a href="http://doi.org/10.1088/1742-5468/2007/09/P09020">Gleiser2007</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Level of realism</td></tr>
+  <tr><td>Hollywood movies, and TV series</td><td><a href="http://doi.org/10.1109/ICME.2007.4284922">Weng2007</a>, <a href="http://doi.org/10.1145/1290082.1290092">Weng2007a</a>, <a href="http://doi.org/10.1109/TMM.2008.2009684">Weng2009</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Storyline identification/segmentation</td></tr>
+  <tr><td>9 classical plays</td><td><a href="http://ets.ifmo.ru/tomasov/konferenc/AutoPlay/Docs/Volume%204/8_06.pdf">Voloshinov2008</a></td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Level of realism</td></tr>
   <tr><td>Movies and TV series</td><td><a href="">Park2009, Park2011</a></td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>Y</td><td>N</td><td>N</td><td>Role detection, story segmentation</td></tr>
   <tr><td><i>Friends</i> TV show</td><td><a href="">Yuan2009, Yuan2010</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Method assessment</td></tr>
   <tr><td>15 Hollywood movies</td><td><a href="">Zhang2009e, Liang2009a, Sang2011, Sang2012</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Face-name matching, Scene segmentation</td></tr>
@@ -219,7 +219,7 @@ List of methods designed to extract character networks from fictional works. The
 
 
 # Contact
-Please, contact me if you detect an article missing from the above list:
+Please, contact me if you detect an error or an article missing from the above list:
 
 Vincent Labatut <[vincent.labatut@univ-avignon.fr](mailto:vincent.labatut@univ-avignon.fr)>
 

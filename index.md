@@ -1,4 +1,3 @@
-## Extraction and Analysis of Fictional Character Networks: A Survey
 This page is related to the following article:
 
 V. Labatut and X. Bost, “*Extraction and Analysis of Fictional Character Networks: A Survey*,” ACM Computing Surveys 52(5):89, 2019. DOI: [10.1145/3344548](http://doi.org/10.1145/3344548) -- [arxiv:1907.02704](https://arxiv.org/abs/1907.02704) -- ⟨[hal-02173918](https://hal.archives-ouvertes.fr/hal-02173918)⟩

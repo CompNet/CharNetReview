@@ -6,7 +6,12 @@ It aims at hosting an up-to-date list of academic articles related to the extrac
 
 If you use these resources, please cite the above article.
 
+<p align="center">
+  <img src="/assets/images/article_citation.svg">
+</p>
+<!--
 ![CitationNet](/assets/images/article_citation.svg)
+-->
 
 # Resources
 The resources associated to the article are available through the following links:

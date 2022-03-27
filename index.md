@@ -13,7 +13,7 @@ If you use these resources, please cite the above article.
 ![CitationNet](/assets/images/article_citation.svg)
 -->
 
-# Resources
+# Available Resources
 The resources associated to the article are available through the following links:
 
 * [`table_bib.ods`](/assets/data/table_bib.ods): LibreOffice table listing the articles with their main information.

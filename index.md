@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Extraction and Analysis of Fictional Character Networks: A Survey
+This page is related to the following article:
 
-You can use the [editor on GitHub](https://github.com/CompNet/CharNetReview/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+V. Labatut and X. Bost, “Extraction and Analysis of Fictional Character Networks: A Survey,” ACM Computing Surveys 52(5):89, 2019. DOI: [10.1145/3344548](http://doi.org/10.1145/3344548) -- [arxiv:1907.02704](https://arxiv.org/abs/1907.02704) -- ⟨[hal-02173918](https://hal.archives-ouvertes.fr/hal-02173918)⟩
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It aims at hosting an up-to-date list of academic articles related to the extraction and analysis of character networks from works of fiction. 
 
-### Markdown
+# Resources
+Here are the resources associated to the article:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* `table_bib.ods`: LibreOffice table listing the articles with their main information.
+* `charnets.bib`: BibTeX file containing the bibliographic entries of these articles, as well as the ones they cite (the latter are not represented in the below graphs).
+* `article_citation.graphml`: article citation network, i.e. graph whose vertices are the listed articles and edges represent them citing each other.
+* `article_cociting.graphml`: same, but the edges represent how much two articles cite the same bibliographic references.
 
-```markdown
-Syntax highlighted code block
+# List of Academic Works
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# Contact
+Vincent Labatut <<vincent.labatut@univ-avignon.fr>>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CompNet/CharNetReview/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

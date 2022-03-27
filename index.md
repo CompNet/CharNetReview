@@ -26,7 +26,6 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td>Zhi Ning's <i>Journey to the West Prequel<i></td><td><a href="http://doi.org/10.1002/pra2.2016.14505301088">Chen2016k</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
   <tr><td>Tarentino's <i>Pulp Fiction</i></td><td><a href="http://doi.org/10.3389/fpsyg.2016.01753">Cipresso2016</a></td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>Y</td><td>Y</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
   <tr><td>Edgeworth's <i>The Absentee</i></td><td><a href="http://doi.org/10.1080/20512856.2016.1244909">Falk2016</a></td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Check literary theories</td></tr>
-  <tr><td>19th century British novels</td><td><a href="http://doi.org/10.1007/978-3-319-46224-0_7">Grayson2016, Grayson2016a</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N/Y</td><td>Descriptive analysis</td></tr>
 </table>
 
 # Contact

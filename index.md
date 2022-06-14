@@ -219,6 +219,7 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td>Lynch's <i>Twin Peaks</i></td><td><a href="https://arxiv.org/abs/2108.09516">Siljak2021</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
   <tr><td>Sophocles' <i>Antigone</i></td><td><a href="http://doi.org/10.1109/besc53957.2021.9635385">Yavuz2021</a></td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Speech sequence modeling</td></tr>
   <tr><td>Luo's <i>Romance of the Three Kingdoms</i></td><td><a href="http://doi.org/10.1109/TCSS.2021.3061702">Zhang2021o</a></td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>Comparative study</td></tr>
+  <tr><td>Melville's <i>Moby Dick</i></td><td><a href="http://doi.org/10.1007/978-3-030-96957-8_35">Parulian2022</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N/Y</td><td>Y</td><td>Method assessment</td></tr>
   <tr><td>Fan-Fictions</td><td><a href="http://doi.org/10.1007/s13278-021-00854-9">Zadeh2022</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Popularity prediction</td></tr>
 </table>
 

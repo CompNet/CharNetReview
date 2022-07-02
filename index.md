@@ -226,7 +226,7 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td>17,275 <i>Project Gutenberg</i> novels</td><td><a href="https://aclanthology.org/2022.findings-acl.81/">Inoue2022</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Character embeddings</td></tr>
   <tr><td>Melville's <i>Moby Dick</i></td><td><a href="http://doi.org/10.1007/978-3-030-96957-8_35">Parulian2022</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N/Y</td><td>Y</td><td>Method assessment</td></tr>
   <tr><td><i>Kyiv Bylyny</i> cycle of Slavic epic narratives</td><td><a href="https://arxiv.org/abs/2203.10399">Sarkanych2022</a></td><td>Y</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>Descriptive analysis, Comparative study</td></tr>
-  <tr><td>Corpus of <i>AO3</i> fanfictions</td><td><a href="https://wp.unil.ch/llist/files/2022/06/COMHUM_2022_paper_14.pdf">Schmidt2022<a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
+  <tr><td>Corpus of <i>AO3</i> fanfictions</td><td><a href="https://wp.unil.ch/llist/files/2022/06/COMHUM_2022_paper_14.pdf">Schmidt2022</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
   <tr><td>Corpus of <i>fanfiction.net</i> stories</td><td><a href="http://doi.org/10.1007/s13278-021-00854-9">Zadeh2022</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Popularity prediction</td></tr>
 </table>
 

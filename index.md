@@ -22,7 +22,7 @@ The resources associated to the article are available through the following link
 * [`article_citation.graphml`](/assets/data/article_citation.graphml): article citation network, i.e. graph whose vertices are the listed articles and edges represent them citing each other.
 * [`article_cociting.graphml`](/assets/data/article_cociting.graphml): same, but the edges represent how much two articles cite the same bibliographic references.
 
-# List of Academic Works
+# List of Academic Articles
 List of methods designed to extract character networks from fictional works. The *Relationships* column indicates whether the edges correspond to co-occurrences (*Cc.*), conversations (*Cv.*), mentions (*M.*), direct actions (*Ac.*), or affiliations (*Af.*). The *Graph* column shows whether the extracted networks are weighted (*W.*), directed (*Di.*), signed (*S.*), and dynamic (*Dy.*). When the authors experiment with different methods, several values may appear in the same cell. Note that this table has been completed after the publication of the official ACM CS article.
 
 <table>
@@ -234,6 +234,53 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td><i>Kyiv Bylyny</i> cycle of Slavic epic narratives</td><td><a href="https://arxiv.org/abs/2203.10399">Sarkanych2022</a></td><td>Y</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>Descriptive analysis, Comparative study</td></tr>
   <tr><td>Corpus of <i>AO3</i> fanfictions</td><td><a href="https://wp.unil.ch/llist/files/2022/06/COMHUM_2022_paper_14.pdf">Schmidt2022</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
   <tr><td>Corpus of <i>fanfiction.net</i> stories</td><td><a href="http://doi.org/10.1007/s13278-021-00854-9">Zadeh2022</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Popularity prediction</td></tr>
+</table>
+
+# List of Mainstream or Instructional Pages
+List of Web pages showing work related to character networks: mainstream articles, tutorials, etc.
+
+<table>
+  <tr style="background-color:#bfbfbf"><td><b>Work of fiction</b></td><td><b>Reference</b></td></tr>
+  <tr><td><i>Grey's Annatomy</i></td><td><a href="https://gweissman.github.io/babelgraph/blog/2017/06/15/greys-anatomy-network-of-sexual-relations.html">Weissman2011</a></td></tr>
+  <tr><td><i>Grey's Annatomy</i></td><td><a href="http://badhessian.org/2012/09/lessons-on-exponential-random-graph-modeling-from-greys-anatomy-hook-ups/">Lind2012</a></td></tr>
+  <tr><td><i>Game of Thrones</i></td><td><a href="http://www.jeromecukier.net/blog/2013/05/13/making-the-game-of-thrones-visualization/">Cukier2013</a></td></tr>
+  <tr><td><i>Friends</i></td><td><a href="http://www.slate.com/articles/arts/culturebox/2014/05/friends_chandler_joey_ross_rachel_monica_phoebe_which_friends_were_closest.html">Blatt2014</a></td></tr>
+  <tr><td>Shakespeare's plays</td><td><a href="https://fivethirtyeight.com/features/parsing-is-such-sweet-sorrow/">Pierson2014</a></td></tr>
+  <tr><td><i>The Simpsons</i></td><td><a href="http://www.vislives.com/2014/09/the-simpons-social-netwok-season-1.html">Pudney2014</a></td></tr>
+  <tr><td><i>Friends</i></td><td><a href="https://thelittledataset.com/2015/01/20/the-one-with-all-the-quantifiable-friendships/">Albright2015</a></td></tr>
+  <tr><td><i>Sherlock Holmes</i></td><td><a href="http://mboudour.github.io/2015/10/28/Shakespeare's-Macbeth-Network.html">Boudourides2015</a></td></tr>
+  <tr><td><i>Star Wars</i></td><td><a href="http://evelinag.com/blog/2015/12-15-star-wars-social-network/index.html">Gabasova2015</a>, <a href="http://evelinag.com/blog/2016/01-25-social-network-force-awakens/index.html">Gabasova2016</a></td></tr>
+  <tr><td>Shakespeare's plays</td><td><a href="http://www.martingrandjean.ch/network-visualization-shakespeare/">Grandjean2015a</a></td></tr>
+  <tr><td><i>Love Actually</i></td><td><a href="http://varianceexplained.org/r/love-actually-network/">Robinson2015</a></td></tr>
+  <tr><td><i>Friends</i></td><td><a href="http://mildlyscientific.schochastics.net/2015/03/03/friends-and-hypergraphs-one-with-a/">Schoch2015</a></td></tr>
+  <tr><td><i>Curb your Enthusiasm</i></td><td><a href="https://weltliteratur.net/curb-your-enthusiasm-season-9-network-analysis/">Fischer2018</a></td></tr>
+  <tr><td>Shakespeare's plays</td><td><a href="http://mboudour.github.io/2016/04/17/Arthur-Conan-Doyle's-A-Study-in-Scarlet-Network-&-Trajectories.html">Boudourides2016</a></td></tr>
+  <tr><td><i>Game of Thrones</i></td><td><a href="https://roberthickman.website/2016/12/01/a-plot-of-networks-part-1/">Hickman2016</a></td></tr>
+  <tr><td><i>Game of Thrones</i></td><td><a href="https://lyonwj.com/blog/graph-of-thrones-neo4j-social-network-analysis">Lyon2016</a></td></tr>
+  <tr><td><i>Star Trek</i></td><td><a href="http://www.datascopeanalytics.com/blog/star-trek-viz/">Pettit2016</a></td></tr>
+  <tr><td><i>Star Wars</i></td><td><a href="http://kirellbenzi.com/blog/exploring-the-star-wars-expanded-universe/">Benzi2016</a></td></tr>
+  <tr><td><i>Star Wars</i></td><td><a href="http://www.derekruths.com/2016/03/05/why-the-force-awakens-is-not-just-a-remake-of-a-new-hope/">Ruths2016</a></td></tr>
+  <tr><td><i>Seinfeld</i></td><td><a href="https://www.stoltzmaniac.com/seinfeld-characters-a-post-about-nothing/">Stoltzman2016</a></td></tr>
+  <tr><td><i>Game of Thrones</i></td><td><a href="https://shiring.github.io/networks/2017/05/15/got_final">Glander2017</a></td></tr>
+  <tr><td><i>Harry Potter</i></td><td><a href="https://prezi.com/trmygkzvocu2/the-social-network-of-harry-potter/">Rinehart2017</a></td></tr>
+  <tr><td><i>Friends</i></td><td><a href="http://giorasimchoni.com/2017/06/04/2017-06-04-the-one-with-friends/">Simchoni2017</a></td></tr>
+  <tr><td>European drama</td><td><a href="https://github.com/lehkost/dramenquartett">Fischer2018a</a></td></tr>
+  <tr><td>Shakespeare's plays</td><td><a href="https://www.reddit.com/r/DataArt/comments/8iwax2/visualisation_of_words_spoken_between_romeo_and/">Iuhfd2018</a></td></tr>
+  <tr><td><i>Marvel</i> movies</td><td><a href="https://graphics.straitstimes.com/STI/STIMEDIA/Interactives/2018/04/marvel-cinematic-universe-whos-who-interactive/index.html">Ker2018</a></td></tr>
+  <tr><td><i>The Office</i></td><td><a href="https://i.imgur.com/oiiyKlz.png">NotRudeDude2018</a></td></tr>
+  <tr><td><i>The Office</i></td><td><a href="https://www.reddit.com/r/dataisbeautiful/comments/8ikpap/oc_graphing_the_character_interactions_from_the/">SortedHat2018</a></td></tr>
+  <tr><td><i>The Simpsons</i></td><td><a href="https://medium.com/@mehulved1503/network-analysis-an-application-case-the-simpsons-season-4-6dec557fa4e0">Ved2018</a></td></tr>
+  <tr><td><i>Game of Thrones</i></td><td><a href="https://www.mapleprimes.com/maplesoftblog/210356-Game-Of-Thrones-And-Graph-Theory">Khan2019</a></td></tr>
+  <tr><td><i>Harry Potter</i></td><td><a href="https://networkscience.wordpress.com/2019/06/07/network-of-characters-in-harry-potter/">Kunegis2019</a></td></tr>
+  <tr><td>European drama</td><td><a href="https://www.teachengineering.org/activities/view/uno_graphtheory_lesson01_activity2">Young2019</a></td></tr>
+  <tr><td><i>Harry Potter</i></td><td><a href="https://medium.com/neo4j/turn-a-harry-potter-book-into-a-knowledge-graph-ffc1c45afcc8">Bratanic2021</a></td></tr>
+  <tr><td><i>The Office</i></td><td><a href="https://github.com/duongnosu/The_Office_interactiongraph">Duong2021</a></td></tr>
+  <tr><td><i>The Simpsons</i></td><td><a href="https://www.danielgaerber.at/visuals/Simpsons Interaction Graph/">Gaerber2021</a></td></tr>
+  <tr><td><i>South Park</i></td><td><a href="https://www.danielgaerber.at/visuals/South Park Interaction Graph/">Gaerber2021a</a></td></tr>
+  <tr><td><i>The Witcher</i></td><td><a href="https://nightingaledvs.com/a-network-map-of-the-witcher/">Janosov2021b</a></td></tr>
+  <tr><td><i>The Wire</i></td><td><a href="https://www.reddit.com/r/dataisbeautiful/comments/w7grup/oc_the_wire_started_airing_about_20_years_ago_to/">AllezCannes2022</a>, <a href="">AllezCannes2022a</a></td></tr>
+  <tr><td><i>The Simpsons</i></td><td><a href="http://thesimpsonsuniverse.weebly.com/network.html">Kalmus2022</a></td></tr>
+  <tr><td><i>The Witcher</i></td><td><a href="https://github.com/thu-vu92/the_witcher_network">Thu2022</a></td></tr>
 </table>
 
 # Contact

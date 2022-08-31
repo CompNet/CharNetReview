@@ -241,7 +241,7 @@ List of Web pages showing work related to character networks: mainstream article
 
 <table>
   <tr style="background-color:#bfbfbf"><td><b>Work of fiction</b></td><td><b>Reference</b></td></tr>
-  <tr><td><i>Grey's Annatomy</i></td><td><a href="https://gweissman.github.io/babelgraph/blog/2017/06/15/greys-anatomy-network-of-sexual-relations.html">Weissman2011</a></td></tr>
+  <tr><td><i>Grey's Annatomy</i></td><td><a href="https://gweissman.github.io/post/grey-s-anatomy-network-of-sexual-relations/">Weissman2011</a></td></tr>
   <tr><td><i>Grey's Annatomy</i></td><td><a href="http://badhessian.org/2012/09/lessons-on-exponential-random-graph-modeling-from-greys-anatomy-hook-ups/">Lind2012</a></td></tr>
   <tr><td><i>Game of Thrones</i></td><td><a href="http://www.jeromecukier.net/blog/2013/05/13/making-the-game-of-thrones-visualization/">Cukier2013</a></td></tr>
   <tr><td><i>Friends</i></td><td><a href="http://www.slate.com/articles/arts/culturebox/2014/05/friends_chandler_joey_ross_rachel_monica_phoebe_which_friends_were_closest.html">Blatt2014</a></td></tr>

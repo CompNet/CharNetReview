@@ -15,12 +15,12 @@ If you use these resources, please cite the above article.
 -->
 
 # Contents
-* [Available Resources](#Resources)
-* [List of Academic Articles](#Academic)
-* [List of Mainstream or Instructional Pages](#Mainstream)
+* [Available Resources](#Available-Resources)
+* [List of Academic Articles](#List-of-Academic-Articles)
+* [List of Mainstream or Instructional Pages](#List-of-Mainstream-or-Instructional-Pages)
 * [Contact](#Contact)
 
-# [Available Resources][Resources]
+# Available Resources
 The resources associated to the article are available through the following links:
 
 * [`table_bib.ods`](/assets/data/table_bib.ods): LibreOffice table listing the articles with their main information.
@@ -28,7 +28,7 @@ The resources associated to the article are available through the following link
 * [`article_citation.graphml`](/assets/data/article_citation.graphml): article citation network, i.e. graph whose vertices are the listed articles and edges represent them citing each other.
 * [`article_cociting.graphml`](/assets/data/article_cociting.graphml): same, but the edges represent how much two articles cite the same bibliographic references.
 
-# [List of Academic Articles][Academic]
+# List of Academic Articles
 List of methods designed to extract character networks from fictional works. The *Relationships* column indicates whether the edges correspond to co-occurrences (*Cc.*), conversations (*Cv.*), mentions (*M.*), direct actions (*Ac.*), or affiliations (*Af.*). The *Graph* column shows whether the extracted networks are weighted (*W.*), directed (*Di.*), signed (*S.*), and dynamic (*Dy.*). When the authors experiment with different methods, several values may appear in the same cell. Note that this table has been completed after the publication of the official ACM CS article.
 
 <table>
@@ -244,7 +244,7 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td>Corpus of <i>fanfiction.net</i> stories</td><td><a href="http://doi.org/10.1007/s13278-021-00854-9">Zadeh2022</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Popularity prediction</td></tr>
 </table>
 
-# [List of Mainstream or Instructional Pages][Mainstream]
+# List of Mainstream or Instructional Pages
 List of Web pages showing work related to character networks: mainstream articles, tutorials, etc.
 
 <table>
@@ -291,7 +291,7 @@ List of Web pages showing work related to character networks: mainstream article
   <tr><td><i>The Witcher</i></td><td><a href="https://github.com/thu-vu92/the_witcher_network">Thu2022</a></td></tr>
 </table>
 
-# [Contact][Contact]
+# Contact
 Please, contact me if you detect an error or an article missing from the above list:
 
 Vincent Labatut <[vincent.labatut@univ-avignon.fr](mailto:vincent.labatut@univ-avignon.fr)>

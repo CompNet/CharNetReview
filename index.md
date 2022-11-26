@@ -15,10 +15,10 @@ If you use these resources, please cite the above article.
 -->
 
 # Contents
-* [Available Resources](#Available-Resources)
-* [List of Academic Articles](#List-of-Academic-Articles)
-* [List of Mainstream or Instructional Pages](#List-of-Mainstream-or-Instructional-Pages)
-* [Contact](#Contact)
+* [Available Resources](#available-resources)
+* [List of Academic Articles](#list-of-academic-articles)
+* [List of Mainstream or Instructional Pages](#list-of-mainstream-or-instructional-pages)
+* [Contact](#contact)
 
 # Available Resources
 The resources associated to the article are available through the following links:

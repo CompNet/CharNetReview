@@ -247,6 +247,7 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td><i>Kyiv Bylyny</i> cycle of Slavic epic narratives</td><td><a href="http://doi.org/10.1142/S0219525922400070">Sarkanych2022</a></td><td>Y</td><td>Y</td><td>Y</td><td>Y</td><td>Y</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>Descriptive analysis, Comparative study</td></tr>
   <tr><td>Corpus of <i>AO3</i> fanfictions</td><td><a href="https://wp.unil.ch/llist/files/2022/06/COMHUM_2022_paper_14.pdf">Schmidt2022</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
   <tr><td>Corpus of <i>fanfiction.net</i> stories</td><td><a href="http://doi.org/10.1007/s13278-021-00854-9">Zadeh2022</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Popularity prediction</td></tr>
+  <tr><td>Carroll's <i>Alice in Wonderland</i></td><td><a href="http://doi.org/10.1109/itnac55475.2022.9998397">Zhang2022at</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>Subplot identification</td></tr>
 </table>
 
 # List of Mainstream or Instructional Pages

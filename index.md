@@ -251,6 +251,7 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td>Corpus of <i>AO3</i> fanfictions</td><td><a href="https://wp.unil.ch/llist/files/2022/06/COMHUM_2022_paper_14.pdf">Schmidt2022</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
   <tr><td>Corpus of <i>fanfiction.net</i> stories</td><td><a href="http://doi.org/10.1007/s13278-021-00854-9">Zadeh2022</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Popularity prediction</td></tr>
   <tr><td>Carroll's <i>Alice in Wonderland</i></td><td><a href="http://doi.org/10.1109/itnac55475.2022.9998397">Zhang2022at</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>Subplot identification</td></tr>
+  <tr><td>Shakespeare's plays, and 253 German plays</td><td><a href="https://arxiv.org/abs/2302.08258">Botond2023</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Classification of works</td></tr>
   <tr><td>Rowling's <i>Harry Potter and the Prisoner of Azkaban</i></td><td><a href="http://doi.org/10.1145/3570991.3571019">Rodda2023</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>Visualization</td></tr>
 </table>
 

@@ -294,6 +294,7 @@ List of Web pages showing work related to character networks: mainstream article
   <tr><td><i>Game of Thrones</i></td><td><a href="https://www.mapleprimes.com/maplesoftblog/210356-Game-Of-Thrones-And-Graph-Theory">Khan2019</a></td></tr>
   <tr><td><i>Harry Potter</i></td><td><a href="https://networkscience.wordpress.com/2019/06/07/network-of-characters-in-harry-potter/">Kunegis2019</a></td></tr>
   <tr><td>European drama</td><td><a href="https://www.teachengineering.org/activities/view/uno_graphtheory_lesson01_activity2">Young2019</a></td></tr>
+  <tr><td>Shakespeare's plays</td><td><a href="https://cameronraymond.me/blog/shakespeare-netlsd/">Raymond2020</a></td></tr>
   <tr><td><i>Harry Potter</i></td><td><a href="https://medium.com/neo4j/turn-a-harry-potter-book-into-a-knowledge-graph-ffc1c45afcc8">Bratanic2021</a></td></tr>
   <tr><td><i>The Office</i></td><td><a href="https://github.com/duongnosu/The_Office_interactiongraph">Duong2021</a></td></tr>
   <tr><td><i>The Simpsons</i></td><td><a href="https://www.danielgaerber.at/visuals/Simpsons Interaction Graph/">Gaerber2021</a></td></tr>

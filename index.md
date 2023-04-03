@@ -285,11 +285,15 @@ List of Web pages showing work related to character networks: mainstream article
   <tr><td><i>Star Wars</i></td><td><a href="http://www.derekruths.com/2016/03/05/why-the-force-awakens-is-not-just-a-remake-of-a-new-hope/">Ruths2016</a></td></tr>
   <tr><td><i>Seinfeld</i></td><td><a href="https://www.stoltzmaniac.com/seinfeld-characters-a-post-about-nothing/">Stoltzman2016</a></td></tr>
   <tr><td><i>Game of Thrones</i></td><td><a href="https://shiring.github.io/networks/2017/05/15/got_final">Glander2017</a></td></tr>
+  <tr><td><i>Game of Thrones</i></td><td><a href="https://jeffreylancaster.com/game-of-thrones/">Lancaster2017</a></td></tr>
   <tr><td><i>Harry Potter</i></td><td><a href="https://prezi.com/trmygkzvocu2/the-social-network-of-harry-potter/">Rinehart2017</a></td></tr>
   <tr><td><i>Friends</i></td><td><a href="http://giorasimchoni.com/2017/06/04/2017-06-04-the-one-with-friends/">Simchoni2017</a></td></tr>
   <tr><td>European drama</td><td><a href="https://github.com/lehkost/dramenquartett">Fischer2018a</a></td></tr>
   <tr><td>Shakespeare's plays</td><td><a href="https://www.reddit.com/r/DataArt/comments/8iwax2/visualisation_of_words_spoken_between_romeo_and/">Iuhfd2018</a></td></tr>
   <tr><td><i>Marvel</i> movies</td><td><a href="https://graphics.straitstimes.com/STI/STIMEDIA/Interactives/2018/04/marvel-cinematic-universe-whos-who-interactive/index.html">Ker2018</a></td></tr>
+  <tr><td><i>Stranger Things</i></td><td><a href="https://jeffreylancaster.com/stranger-things/">Lancaster2018</a></td></tr>
+  <tr><td><i>Marvel</i> movies</td><td><a href="https://jeffreylancaster.com/marvel/">Lancaster2018a</a></td></tr>
+  <tr><td><i>The Man in the High Castle</i></td><td><a href="https://jeffreylancaster.com/man-in-the-high-castle/">Lancaster2018b</a></td></tr>
   <tr><td><i>The Office</i></td><td><a href="https://i.imgur.com/oiiyKlz.png">NotRudeDude2018</a></td></tr>
   <tr><td><i>The Office</i></td><td><a href="https://www.reddit.com/r/dataisbeautiful/comments/8ikpap/oc_graphing_the_character_interactions_from_the/">SortedHat2018</a></td></tr>
   <tr><td><i>The Simpsons</i></td><td><a href="https://medium.com/@mehulved1503/network-analysis-an-application-case-the-simpsons-season-4-6dec557fa4e0">Ved2018</a></td></tr>

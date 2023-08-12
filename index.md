@@ -263,6 +263,7 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td>Heterogeneous collection of 7 networks</td><td><a href="https://github.com/stivalaa/geodesic_cycles">Stivala2023</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Check assumption</td></tr>
   <tr><td>60 novels in Portuguese</td><td><a href="http://doi.org/10.5753/brasnam.2023.230585">Silva2023</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
   <tr><td>162 mangas</td><td><a href="https://arxiv.org/abs/2303.07208">Sugishita2023</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis, Comparative study</td></tr>
+  <tr><td>3 TV series</td><td><a href="https://arxiv.org/abs/2307.05329">Yu2023c</a></td><td>Y</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Popularity prediction</td></tr>
 </table>
 
 # List of Mainstream or Instructional Pages

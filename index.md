@@ -289,13 +289,13 @@ List of Web pages showing work related to character networks: mainstream article
   <tr><td>Shakespeare's plays</td><td><a href="http://www.martingrandjean.ch/network-visualization-shakespeare/">Grandjean2015a</a></td></tr>
   <tr><td><i>Love Actually</i></td><td><a href="http://varianceexplained.org/r/love-actually-network/">Robinson2015</a></td></tr>
   <tr><td><i>Friends</i></td><td><a href="http://mildlyscientific.schochastics.net/2015/03/03/friends-and-hypergraphs-one-with-a/">Schoch2015</a></td></tr>
-  <tr><td>Molière's plays</td><td><a href="https://resultats.hypotheses.org/644">Glorieux2016</a>, <a href="https://resultats.hypotheses.org/749">Glorieux2016a</a></td></tr>
   <tr><td><i>Curb your Enthusiasm</i></td><td><a href="https://weltliteratur.net/curb-your-enthusiasm-season-9-network-analysis/">Fischer2018</a></td></tr>
   <tr><td>Shakespeare's plays</td><td><a href="http://mboudour.github.io/2016/04/17/Arthur-Conan-Doyle's-A-Study-in-Scarlet-Network-&-Trajectories.html">Boudourides2016</a></td></tr>
   <tr><td><i>Game of Thrones</i></td><td><a href="https://roberthickman.website/2016/12/01/a-plot-of-networks-part-1/">Hickman2016</a></td></tr>
   <tr><td><i>Game of Thrones</i></td><td><a href="https://lyonwj.com/blog/graph-of-thrones-neo4j-social-network-analysis">Lyon2016</a></td></tr>
   <tr><td><i>Star Trek</i></td><td><a href="http://www.datascopeanalytics.com/blog/star-trek-viz/">Pettit2016</a></td></tr>
   <tr><td><i>Star Wars</i></td><td><a href="http://kirellbenzi.com/blog/exploring-the-star-wars-expanded-universe/">Benzi2016</a></td></tr>
+  <tr><td>Molière's plays</td><td><a href="https://resultats.hypotheses.org/644">Glorieux2016</a>, <a href="https://resultats.hypotheses.org/749">Glorieux2016a</a></td></tr>
   <tr><td><i>Star Wars</i></td><td><a href="http://www.derekruths.com/2016/03/05/why-the-force-awakens-is-not-just-a-remake-of-a-new-hope/">Ruths2016</a></td></tr>
   <tr><td><i>Seinfeld</i></td><td><a href="https://www.stoltzmaniac.com/seinfeld-characters-a-post-about-nothing/">Stoltzman2016</a></td></tr>
   <tr><td><i>Game of Thrones</i></td><td><a href="https://shiring.github.io/networks/2017/05/15/got_final">Glander2017</a></td></tr>

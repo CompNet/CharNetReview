@@ -343,3 +343,5 @@ Please, contact me if you detect an error or an article missing from the above l
 
 Vincent Labatut <[vincent.labatut@univ-avignon.fr](mailto:vincent.labatut@univ-avignon.fr)>
 
+Alternatively, you can open an issue on the GitHub project that hosts this page: https://github.com/CompNet/CharNetReview/issues/
+

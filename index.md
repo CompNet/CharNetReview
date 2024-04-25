@@ -287,6 +287,7 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td>Hugo's <i>Les misérables</i></td><td><a href="http://doi.org/10.1515/9783111317779-014">Houston2024</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Visualization</td></tr>
   <tr><td>Schiller's <i>Die Räuber</i></td><td><a href="http://doi.org/10.1515/9783111317779-011">Krautter2024</a></td><td>N/Y</td><td>N</td><td>N/Y</td><td>N</td><td>N</td><td>Y</td><td>N/Y</td><td>N</td><td>N</td><td>Comparative study</td></tr>
   <tr><td><i>Marvel</i> universe</td><td><a href="http://doi.org/10.25236/AJHSS.2024.070113">Peng2024</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
+  <tr><td>46 mangas from the <i>Manga109</i> dataset</td><td><a href="https://anlp.jp/proceedings/annual_meeting/2024/pdf_dir/P7-4.pdf">Sharma2024</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>Y</td><td>Y</td><td>N</td><td>Genre comparison</td></tr>
   <tr><td>Murder Mystery Games</td><td><a href="https://arxiv.org/abs/2402.11051">Zhao2024a</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Annotated corpus presentation</td></tr>
 </table>
 

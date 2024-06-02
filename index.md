@@ -303,6 +303,7 @@ List of Web pages showing work related to character networks: mainstream article
 
 <table>
   <tr style="background-color:#bfbfbf"><td><b>Work of fiction</b></td><td><b>Reference</b></td></tr>
+  <tr><td><i>The Bible</i></td><td><a href="https://www.chrisharrison.net/index.php/Visualizations/BibleViz">Harrison2007</a></td></tr>
   <tr><td><i>Grey's Annatomy</i></td><td><a href="https://gweissman.github.io/post/grey-s-anatomy-network-of-sexual-relations/">Weissman2011</a></td></tr>
   <tr><td><i>Grey's Annatomy</i></td><td><a href="http://badhessian.org/2012/09/lessons-on-exponential-random-graph-modeling-from-greys-anatomy-hook-ups/">Lind2012</a></td></tr>
   <tr><td><i>Game of Thrones</i></td><td><a href="http://www.jeromecukier.net/blog/2013/05/13/making-the-game-of-thrones-visualization/">Cukier2013</a></td></tr>

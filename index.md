@@ -6,6 +6,18 @@ DOI: [10.1145/3344548](http://doi.org/10.1145/3344548) -- [arxiv:1907.02704](htt
 It aims at hosting an up-to-date list of academic articles related to the extraction and analysis of character networks from works of fiction.
 
 If you use these resources, please cite the above article.
+```bibtex
+@Article{Labatut2019,
+  author    = {Labatut, Vincent and Bost, Xavier},
+  title     = {Extraction and Analysis of Fictional Character Networks: A Survey},
+  journal   = {ACM Computing Surveys},
+  year      = {2019},
+  volume    = {52},
+  number    = {5},
+  pages     = {89},
+  doi       = {10.1145/3344548},
+}
+```
 
 <p align="center">
   <img src="./assets/images/article_citation.svg">

@@ -321,6 +321,7 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td>Fielding's <i>The Coffee-House Politician</i></td><td><a href="https://harvest.usask.ca/items/98ec5aa7-8149-4c46-a7e9-1f6757080d45">Torvi2024</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Visualization</td></tr>
   <tr><td>10 Shakespeare's plays</td><td><a href="http://doi.org/10.1007/s00799-024-00401-9">Yamada2024</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Visualization</td></tr>
   <tr><td>Austen's <i>Emma</i>, and <i>Friends</i> S1--10</td><td><a href="http://doi.org/10.59429/esp.v9i7.2076">Yang2024c</a></td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Comparative study</td></tr>
+  <tr><td>Pausanias' <i>Description of Greece</i></td><td><a href="https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0447190">Winnick2024</a></td><td>N</td><td>N</td><td>N</td><td>Y</td><td>Y</td><td>N</td><td>N/Y</td><td>N/Y</td><td>N</td><td>Descriptive analysis</td></tr>
   <tr><td>Murder Mystery Games</td><td><a href="https://arxiv.org/abs/2402.11051">Zhao2024a</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Annotated corpus presentation</td></tr>
 </table>
 

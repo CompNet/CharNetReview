@@ -325,6 +325,7 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td>Austen's <i>Emma</i>, and <i>Friends</i> S1--10</td><td><a href="http://doi.org/10.59429/esp.v9i7.2076">Yang2024c</a></td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Comparative study</td></tr>
   <tr><td>Pausanias' <i>Description of Greece</i></td><td><a href="https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0447190">Winnick2024</a></td><td>N</td><td>N</td><td>N</td><td>Y</td><td>Y</td><td>N</td><td>N/Y</td><td>N/Y</td><td>N</td><td>Descriptive analysis</td></tr>
   <tr><td>Murder Mystery Games</td><td><a href="http://doi.org/10.18653/v1/2024.findings-acl.454">Zhao2024a</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Annotated corpus presentation</td></tr>
+  <tr><td>70,509 narratives from <i>Project Gutemberg</i></td><td><a href="http://doi.org/10.18653/v1/2025.nlp4dh-1.46">Hamilton2025</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Check literary theories</td></tr>
 </table>
 
 # List of Mainstream or Instructional Pages

@@ -330,6 +330,7 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td>70,509 narratives from <i>Project Gutenberg</i></td><td><a href="http://doi.org/10.18653/v1/2025.nlp4dh-1.46">Hamilton2025</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Check literary theories</td></tr>
   <tr><td>Chinese novels</td><td><a href="http://doi.org/10.1016/j.eswa.2025.127758">Tao2025</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Speaker recognition</td></tr>
   <tr><td><i>Doctor Who</i> S1–39</td><td><a href="https://www.seruvenyayinevi.com/Webkontrol/uploads/Fck/enginnermart25.pdf">Tas2025</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
+  <tr><td>Chinese popular novels and TV dramas</td><td><a href="http://doi.org/10.55214/25768484.v9i5.7709">Yang2025a</a></td><td>Y</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N/Y</td><td>Method assessment</td></tr>
 </table>
 
 # List of Mainstream or Instructional Pages

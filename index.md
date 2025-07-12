@@ -338,6 +338,7 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td>Classical English novels</td><td><a href="http://doi.org/10.1117/12.3075576">Luo2025</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Method assessment</td></tr>
   <tr><td>Chinese novels</td><td><a href="http://doi.org/10.1016/j.eswa.2025.127758">Tao2025</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Speaker recognition</td></tr>
   <tr><td><i>Doctor Who</i> S1–39</td><td><a href="https://www.seruvenyayinevi.com/Webkontrol/uploads/Fck/enginnermart25.pdf">Tas2025</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
+  <tr><td>4 Chinese novels</td><td><a href="https://arxiv.org/abs/2507.04852">Yan2025b</a></td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>Y</td><td>N</td><td>Visualization</td></tr>
   <tr><td>Chinese popular novels and TV dramas</td><td><a href="http://doi.org/10.55214/25768484.v9i5.7709">Yang2025a</a></td><td>Y</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N/Y</td><td>Method assessment</td></tr>
 </table>
 

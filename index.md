@@ -1,4 +1,4 @@
-This page is related to the following article:
+<img width="1469" height="21" alt="image" src="https://github.com/user-attachments/assets/04ee0699-557e-4cfe-a749-735e92d43f7d" />This page is related to the following article:
 
 V. Labatut and X. Bost, “*Extraction and Analysis of Fictional Character Networks: A Survey*,” ACM Computing Surveys 52(5):89, 2019. 
 DOI: [10.1145/3344548](http://doi.org/10.1145/3344548) – [arxiv:1907.02704](https://arxiv.org/abs/1907.02704) – ⟨[hal-02173918](https://hal.archives-ouvertes.fr/hal-02173918)⟩
@@ -198,6 +198,7 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td>2 novels and their movie adaptations</td><td><a href="http://doi.org/10.1109/tcss.2019.2931721">Chowdhury2019</a></td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N/Y</td><td>N/Y</td><td>N</td><td>N</td><td>Plot structure comparison</td></tr>
   <tr><td>20 classic and 20 modern novels</td><td><a href="http://doi.org/10.7717/peerj-cs.189">Dekker2019</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
   <tr><td>Rowling's <i>Harry Potter</i> novels</td><td><a href="http://doi.org/10.1007/s13278-022-00947-z">Everton2019</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
+  <tr><td>1,333 novels from 2001--2015</td><td><a href="http://doi.org/10.22148/16.032">Kraicer2019</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Genre comparison</td></tr>
   <tr><td>930 Polish 19th and 20th century novels</td><td><a href="https://dev.clariah.nl/files/dh2019/boa/0843.html">Kubis2019</a>, <a href="http://doi.org/10.1093/llc/fqab012">Kubis2021</a></td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Comparative study</td></tr>
   <tr><td>12 Hollywood movies</td><td><a href="http://doi.org/10.1016/j.ipm.2019.02.005">Lee2019c</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>Y</td><td>Method assessment</td></tr>
   <tr><td>142 movies</td><td><a href="http://doi.org/10.1145/3326467.3326485">Lee2019b</a>, <a href="https://www.researchgate.net/publication/334131905_Learning_Distributed_Representations_of_Character_Networks_for_Computational_Narrative_Analytics">Lee2019d</a>, <a href="http://doi.org/10.1016/j.artint.2020.103235">Lee2020</a>, <a href="http://doi.org/10.3390/s20071978">Lee2020a</a>, <a href="http://doi.org/10.24963/ijcai.2020/709">Lee2020c</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>Y</td><td>Story and character embedding</td></tr>

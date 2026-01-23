@@ -428,6 +428,7 @@ List of Web pages showing work related to character networks: mainstream article
   <tr><td><i>The Witcher</i></td><td><a href="https://nightingaledvs.com/a-network-map-of-the-witcher/">Janosov2021b</a></td></tr>
   <tr><td><i>The Wire</i></td><td><a href="https://www.reddit.com/r/dataisbeautiful/comments/w7grup/oc_the_wire_started_airing_about_20_years_ago_to/">AllezCannes2022</a>, <a href="">AllezCannes2022a</a></td></tr>
   <tr><td><i>The Simpsons</i></td><td><a href="http://thesimpsonsuniverse.weebly.com/network.html">Kalmus2022</a></td></tr>
+  <tr><td><i>1917</i></td><td><a href="https://weltliteratur.net/extracting-network-data-from-amazon-prime-videos/">Poggel2022</a></td></tr>
   <tr><td><i>The Witcher</i></td><td><a href="https://github.com/thu-vu92/the_witcher_network">Thu2022</a></td></tr>
 </table>
 

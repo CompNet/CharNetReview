@@ -372,6 +372,7 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td>Chinese popular novels and TV dramas</td><td><a href="http://doi.org/10.55214/25768484.v9i5.7709">Yang2025a</a></td><td>Y</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N/Y</td><td>Method assessment</td></tr>
   <tr><td>52 animated movies</td><td><a href="http://doi.org/10.3390/e27090914">Zeng2025</a></td><td>N</td><td>N</td><td>N</td><td>Y</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Popularity prediction</td></tr>
   <tr><td><i>The Hunger Games</i> and <i>The Maze Runner</i> novels and movies</td><td><a href="http://doi.org/10.1007/s42001-025-00451-2">Chowdhury2026</a></td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>Y</td><td>Comparative study</td></tr>
+  <tr><td>64 English-language 19th century novels</td><td><a href="https://arxiv.org/abs/2601.15508">Mian2026</a></td><td>N/Y</td><td>N/Y</td><td>N/Y</td><td>N</td><td>N</td><td>N/Y</td><td>N/Y</td><td>N</td><td>N</td><td>Check literary theories</td></tr>
   <tr><td>Excerpts from 1 TV show and 2 movies</td><td><a href="http://doi.org/10.1007/s41109-025-00768-x">Toscano2026</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Method assessment</td></tr>
 </table>
 

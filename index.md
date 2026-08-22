@@ -390,6 +390,7 @@ List of methods designed to extract character networks from fictional works. The
   <tr><td>6 multimedia lores</td><td><a href="https://www.preprints.org/manuscript/202604.1126">Souza2026</a></td><td>N</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
   <tr><td>Plays from the <i>DraCor</i> Project</td><td><a href="https://osf.io/76ck5/files/3zsvn">Thurn2026</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Check literary theories</td></tr>
   <tr><td>Excerpts from 1 TV show and 2 movies</td><td><a href="http://doi.org/10.1007/s41109-025-00768-x">Toscano2026</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Y</td><td>Y</td><td>N</td><td>N</td><td>N</td><td>Method assessment</td></tr>
+  <tr><td>Han's <i>The Sing-Song Girls of Shanghai</i></td><td><a href="http://doi.org/10.1093/llc/fqag023">Wang2026j</a></td><td>Y</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>N</td><td>Descriptive analysis</td></tr>
 </table>
 
 # List of Mainstream or Instructional Pages
